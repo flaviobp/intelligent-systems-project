@@ -1,0 +1,80 @@
+MÉTRICAS NO CROSS-VALIDATION (n_splits=5)
+                    precision    recall  f1-score   support
+
+         Decoração       0.88      0.87      0.88      1569
+       Papel e Cia       0.79      0.70      0.74       492
+            Outros       0.70      0.69      0.70       202
+              Bebê       0.87      0.85      0.86      1245
+     Lembrancinhas       0.90      0.92      0.91      3152
+Bijuterias e Jóias       0.74      0.90      0.81       170
+
+          accuracy                           0.87      6830
+         macro avg       0.81      0.82      0.82      6830
+      weighted avg       0.87      0.87      0.87      6830
+
+                    precision    recall  f1-score   support
+
+         Decoração       0.88      0.87      0.88      1569
+       Papel e Cia       0.80      0.69      0.74       492
+            Outros       0.71      0.74      0.72       202
+              Bebê       0.88      0.86      0.87      1245
+     Lembrancinhas       0.90      0.92      0.91      3152
+Bijuterias e Jóias       0.70      0.93      0.80       169
+
+          accuracy                           0.88      6829
+         macro avg       0.81      0.84      0.82      6829
+      weighted avg       0.88      0.88      0.87      6829
+
+                    precision    recall  f1-score   support
+
+         Decoração       0.88      0.87      0.88      1568
+       Papel e Cia       0.78      0.71      0.74       493
+            Outros       0.63      0.69      0.66       202
+              Bebê       0.89      0.86      0.88      1245
+     Lembrancinhas       0.90      0.91      0.91      3152
+Bijuterias e Jóias       0.68      0.94      0.79       169
+
+          accuracy                           0.87      6829
+         macro avg       0.79      0.83      0.81      6829
+      weighted avg       0.87      0.87      0.87      6829
+
+                    precision    recall  f1-score   support
+
+         Decoração       0.89      0.87      0.88      1568
+       Papel e Cia       0.81      0.68      0.74       492
+            Outros       0.67      0.69      0.68       202
+              Bebê       0.87      0.86      0.86      1246
+     Lembrancinhas       0.89      0.91      0.90      3152
+Bijuterias e Jóias       0.68      0.90      0.77       169
+
+          accuracy                           0.87      6829
+         macro avg       0.80      0.82      0.81      6829
+      weighted avg       0.87      0.87      0.87      6829
+
+                    precision    recall  f1-score   support
+
+         Decoração       0.90      0.87      0.88      1568
+       Papel e Cia       0.80      0.68      0.73       492
+            Outros       0.74      0.67      0.70       202
+              Bebê       0.86      0.88      0.87      1246
+     Lembrancinhas       0.89      0.91      0.90      3152
+Bijuterias e Jóias       0.68      0.86      0.76       169
+
+          accuracy                           0.87      6829
+         macro avg       0.81      0.81      0.81      6829
+      weighted avg       0.87      0.87      0.87      6829
+
+MÉTRICAS NO TESTE
+                    precision    recall  f1-score   support
+
+         Decoração       0.88      0.88      0.88       871
+       Papel e Cia       0.83      0.66      0.74       274
+            Outros       0.86      0.71      0.77       112
+              Bebê       0.89      0.85      0.87       692
+     Lembrancinhas       0.88      0.94      0.91      1751
+Bijuterias e Jóias       0.89      0.95      0.92        94
+
+          accuracy                           0.88      3794
+         macro avg       0.87      0.83      0.85      3794
+      weighted avg       0.88      0.88      0.88      3794
+
